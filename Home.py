@@ -1,4 +1,7 @@
-"""to run type streamlit run Home.py"""
+"""
+pip freeze > requirements.txt
+to run type streamlit run Home.py
+"""
 import streamlit as st
 import functions
 
